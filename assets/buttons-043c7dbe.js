@@ -1,0 +1,1 @@
+import{_ as t,p as e,q as _}from"./framework-5866ffd3.js";const s={data(){return{}}},o={class:"btn"};function n(a,c,r,p,d,u){return e(),_("div",o,"按钮组件")}const l=t(s,[["render",n],["__scopeId","data-v-66a72756"],["__file","buttons.vue"]]);export{l as default};
